@@ -5,9 +5,9 @@ Everything has got stopped due to covid 19 . But, learning should go on. So, to 
 <br><br>
 <img src="https://1.bp.blogspot.com/-Ii7yCLZHEHQ/YKjj5MGCtjI/AAAAAAAAAFk/cZTJayvlJNQ6O3eFSZ49LjIrIFR4TBBKwCLcBGAsYHQ/s2048/189958064_320883932764859_2458793017567031595_n.png">
 <br><br>
-This app is developed by one of our team mate, " <a href="https://github.com/masterjavaofficial">Master Java</a> "  . Thanks to him.
+This app is developed by one of our team mate, " <a href="https://github.com/itsyashuvo">Yasin Ahmed Shuvo</a> "  . Thanks to him.
 <br><br>
-Download it from <a href="https://github.com/EverythingVulnerable/EverythingVulnBlog/raw/main/application/Everything Vuln V-1.1.apk">here</a>.
+Download it from <a href="https://github.com/EverythingVulnerable/EverythingVulnApk/raw/main/application/Everything Vuln V-1.1.apk">here</a>.
 <br><br>
 Well, from the previous experience I can say that, some people will blame that, this app is injected with some kind of virus or, malware. That's why we have made this project totally public. So that you don't have any question related to your privacy. You can check the source code from his github repository. And, report if you are facing any kind of issue to use this app.
 <br><br>
